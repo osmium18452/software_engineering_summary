@@ -849,7 +849,27 @@
 
    ![avatar](pic/22.png)
 
-   <center><embed src="pdf/whitebox.pdf" width="850" height="600"></center>
+   ![avatar](pdf/whitebox_01.png)
+
+   ![avatar](pdf/whitebox_02.png)
+
+   ![avatar](pdf/whitebox_03.png)
+
+   ![avatar](pdf/whitebox_04.png)
+
+   ![avatar](pdf/whitebox_05.png)
+
+   ![avatar](pdf/whitebox_06.png)
+
+   ![avatar](pdf/whitebox_07.png)
+
+   ![avatar](pdf/whitebox_08.png)
+
+   ![avatar](pdf/whitebox_09.png)
+
+   ![avatar](pdf/whitebox_10.png)
+
+
 
 7. **什么是基本路径（独立路径），如何寻找基本路径？**
 
