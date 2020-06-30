@@ -194,7 +194,7 @@
    1. 确定功能
    2. 算出各个功能代码行数的平均值(a+4m+b)/6
 
-   ![avatar](pic/pic-4.png)
+   ![avatar](https://i.imgur.com/Jnhsebb.png)
 
    3. 确定各个子功能的行成本（元/行）和生产力（行/人月）
    4. 计算各个子功能的成本（行*行成本）和人力（行/生产率）
@@ -213,15 +213,15 @@
 
     参考下面作业的例子，3L/人时即为504L/人月，那么1人月=504/3人时=168人时=21人天
 
-    ![avatar](pic/35.png)
+    ![avatar](https://i.imgur.com/PuEtBFr.png)
 
 6. **数据流图包含的要素，数据流图的画法**
 
     见ppt第二章11-35页
 
-    ![avatar](pic/pic-1.png)
+    ![avatar](https://i.imgur.com/vY6IcGg.png)
 
-    ![avatar](pic/pic-2.png)
+    ![avatar](https://i.imgur.com/FZLxCcF.png)
 
 
 7. **画数据流图的注意点**
@@ -257,7 +257,7 @@
 
     **与数据流图的联系**：数据字典定义数据流图中出现的所有名字
 
-    ![avatar](pic/pic-3.png)
+    ![avatar](https://i.imgur.com/uwaqW8I.png)
 
 9. *补充*
 
@@ -305,7 +305,7 @@
     - 将来可能提出的要求
 
 
-   ![avatar](pic/pic-5.png)
+   ![avatar](https://i.imgur.com/lR4zejd.png)
 
 3. **需求获取的手段方法**
 
@@ -329,7 +329,7 @@
 
    **内容：**
 
-   ![avatar](pic/9.png)
+   ![avatar](https://i.imgur.com/13vyWQ2.png)
 
    *不应写在SRS中的内容：*
    - 项目开发计划
@@ -350,7 +350,7 @@
 
 6. **判定树、判定表**
 
-    ![avatar](pic/17.png)
+    ![avatar](https://i.imgur.com/89zlSeG.png)
 
     参考作业题
 
@@ -376,7 +376,7 @@
 
     SA主要针对数据处理领域，因此系统分析的侧重点在于**功能**分析和**数据**分析，而行为分析使用的较少。
 
-    ![avatar](pic/8.png)
+    ![avatar](https://i.imgur.com/qZolyS9.png)
 
 9. *补充*
 
@@ -399,9 +399,9 @@
    - 原型评价
    - 测试用例生成
 
-      ![avatar](pic/6.png)
+      ![avatar](https://i.imgur.com/azzilvl.png)
 
-      ![avatar](pic/7.png)
+      ![avatar](https://i.imgur.com/bnmUBIE.png)
 
 
 
@@ -532,23 +532,23 @@
     2. 分析事务来确定他的类型
     3. 根据事务类型来选取一条数据通路
 
-    ![avatar](pic/15.png)
+    ![avatar](https://i.imgur.com/k9kD30T.png)
 
 13. **层次图，结构图**
 
-![avatar](pic/11.png)
+![avatar](https://i.imgur.com/8LaDfkP.png)
 
-![avatar](pic/12.png)
+![avatar](https://i.imgur.com/beu2MES.png)
 
-![avatar](pic/13.png)
+![avatar](https://i.imgur.com/b7W5mAa.png)
 
-![avatar](pic/14.png)
+![avatar](https://i.imgur.com/2y9uxNy.png)
 
 **注意：** 一个模块在结构图中只能出现一次。一般习惯输入模块在左，计算模块在中间，输出模块在右。
 
 14. *补充*
 
-    ![avatar](pic/10.png)
+    ![avatar](https://i.imgur.com/spZGCvR.png)
 
     1. 设计是研究系统的软件**实现问题**，即在分析模型的基础上形成**实现环境下的设计模型**
 
@@ -608,7 +608,7 @@
        - 程序流程图中用箭头代表控制流，这样使得程序员不受任何约束，可以完全不顾结构程序设计的精神，随意转移控制。
        - 在数据结构表示方面存在不足。
    - **N-S图（盒图）：**
-      ![avatar](pic/16.png)
+      ![avatar](https://i.imgur.com/8JCLxWU.png)
      - **优点**
        - 功能域有明确的规定，并且可以很直观地从NS图上看出来
        - 控制转移不能任意规定，必须遵守结构化程序设计的要求
@@ -616,9 +616,9 @@
        - 很容易表现嵌套关系，也可以表示模块的层次结构
    - **PAD图：**
 
-   ![avatar](pic/18.png)
+   ![avatar](https://i.imgur.com/kxrIGua.png)
 
-   ![avatar](pic/19.png)
+   ![avatar](https://i.imgur.com/kFdrd36.png)
 
    - **优点**
      - 清晰度和结构化程度高
@@ -647,7 +647,7 @@
 
    McCabe方法根据程序控制流的复杂程度定量度量程序的复杂程度，这样度量出的结果成为程序的环形复杂度。（其实就是数数流图里面有几区域）
 
-   ![avatar](pic/20.png)
+   ![avatar](https://i.imgur.com/vtS6Sph.png)
 
 6. **环路复杂度对编程有什么指导意义**
 
@@ -770,7 +770,7 @@
       - 语句构造 ：每条语句都应当简单而直接，同时也不应为了追 求运行效率而使代码复杂化，这样会减低程序的可读性。
       - 输入/输出：遵循源程序的输入输出风格。
 
-    ![avatar](pic/21.png)
+    ![avatar](https://i.imgur.com/tNUQiut.png)
 
 ---
 
@@ -816,13 +816,10 @@
    1. 对发生bug的模块要加强测试，因为周边很可能还存在bug。
    2. 对检测出来的bug进行倾向性分析，检查其集中在哪些模块，并对这些模块进行追加测试。
 
-
 4. **什么是白盒测试，什么情况需要进行白盒测试？**
 
     白盒法：也叫玻璃盒测试，对软件的过程性细节进行细致的检查，这一方法是将测试兑现看作一个打开的盒子，
     它允许测试人员利用内部逻辑结构及有关信息，来设计或者选择测试用例，对程序的**逻辑路径**进行测试。
-
-<!--    todo 什么情况下需要白盒测试    -->
 
 5. **为什么需要白盒测试，只进行功能测试是否可以？**
 
@@ -845,30 +842,28 @@
    - 路径覆盖（面向语句间控制）
 
    不一定
+   
+   ![avatar](https://i.imgur.com/VQeUkgN.png)
 
-   ![avatar](pic/22.png)
+   ![avatar](https://i.imgur.com/dCBh2v9.png)
 
-   ![avatar](pdf/whitebox_01.png)
+   ![avatar](https://i.imgur.com/B8ohyeL.png)
 
-   ![avatar](pdf/whitebox_02.png)
+   ![avatar](https://i.imgur.com/CdT2g0O.png)
 
-   ![avatar](pdf/whitebox_03.png)
+   ![avatar](https://i.imgur.com/tJEcOEQ.png)
 
-   ![avatar](pdf/whitebox_04.png)
+   ![avatar](https://i.imgur.com/W5K7x5i.png)
 
-   ![avatar](pdf/whitebox_05.png)
+   ![avatar](https://i.imgur.com/ASmcGvs.png)
 
-   ![avatar](pdf/whitebox_06.png)
+   ![avatar](https://i.imgur.com/ZGVtGW9.png)
 
-   ![avatar](pdf/whitebox_07.png)
+   ![avatar](https://i.imgur.com/W7y98lg.png)
 
-   ![avatar](pdf/whitebox_08.png)
+   ![avatar](https://i.imgur.com/zPaJ7hy.png)
 
-   ![avatar](pdf/whitebox_09.png)
-
-   ![avatar](pdf/whitebox_10.png)
-
-
+   ![avatar](https://i.imgur.com/9FP1O6E.png)
 
 7. **什么是基本路径（独立路径），如何寻找基本路径？**
 
@@ -891,7 +886,7 @@
    - 通过循环m次，其中m<n-1，n是允许通过循环的最大次数。
    - 通过循环n-1,n,n+1次
 
-   ![avatar](pic/23.png)
+   ![avatar](https://i.imgur.com/IquJvYu.png)
 
    *补充：* 循环最简单的测试方法，是把循环当分支结构，只测试进入循环和不进入循环体两种情况，这种简化循环意义下的路径覆盖成为“Z路径覆盖”。
 
@@ -914,9 +909,9 @@
     - 驱动模块：调用测模块的代称
     - 桩模块：被调用侧模块的代称
 
-   ![avatar](pic/24.png)
+   ![avatar](https://i.imgur.com/WzhM824.png)
 
-   ![avatar](pic/25.png)
+   ![avatar](https://i.imgur.com/jSFRU2M.png)
 
 12. **自顶向下集成测试，需要构筑驱动模块还是桩模块？**
 
@@ -1035,9 +1030,9 @@
 
     软件再工程是一类软件工程活动，是一个工程过程, 它将逆向工程、重构和正向工程组合起来,将现存系统重新构造为新的形式.
 
-    ![avatar](pic/26.png)
+    ![avatar](https://i.imgur.com/Yx5nEAX.png)
 
-    ![avatar](pic/26.png)
+    ![avatar](https://i.imgur.com/IogzRiG.png)
 
     软件的逆向工程是分析程序以便在比源代码更高的抽象层次上创建出程序的某种表示的过程,
     也就是说,逆向工程是一个恢复设计结果的过程,逆向工程工具从现存的程序代码中抽取有关数据、体系结构和处理过程的设计信息。
@@ -1097,7 +1092,7 @@
 
 2. **甘特图一般用来描述什么内容？试举例说明**
 
-    ![avatar](pic/28.png)
+    ![avatar](https://i.imgur.com/V4wTYIW.png)
 
 3. **作为一个合格的软件开发人员的条件有哪些，试枚举5条以上**
 
@@ -1110,9 +1105,9 @@
 
 4. **评价软件质量的因素（试枚举评价软件质量的方面）**
 
-    ![avatar](pic/29.png)
+    ![avatar](https://i.imgur.com/GQCOJGF.png)
 
-    ![avatar](pic/30.png)
+    ![avatar](https://i.imgur.com/kbvw2x6.png)
 
 5. **什么是SQA**
 
@@ -1128,22 +1123,22 @@
    - 确保适当地实现了变化；
    - 向需要知道这类信息的人报告变化。
 
-    ![avatar](pic/31.png)
+    ![avatar](https://i.imgur.com/jPAhZeU.png)
 
 7. **配置管理工具举例**
 
-    ![avatar](pic/33.png)
+    ![avatar](https://i.imgur.com/CDfVhMx.png)
 
 8. **基线的概念**
 
     基线是已经通过了正式复审的规格说明或者中间产品，它可以作为进一步开发的基础，并且只有通过正式的变化控制才能改变。  
     基线标志着开发过程的各个里程碑。
 
-    ![avatar](pic/32.png)
+    ![avatar](https://i.imgur.com/N8lD1WE.png)
 
 9. **能力成熟度模型（Capability Maturity Model ，CMM）的5个级别**
 
-    ![avatar](pic/34.png)
+    ![avatar](https://i.imgur.com/cMIBudU.png)
 
 10. **如何确保软件的质量（综述题目）**
 
