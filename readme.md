@@ -194,7 +194,7 @@
    1. 确定功能
    2. 算出各个功能代码行数的平均值(a+4m+b)/6
 
-   ![avatar](pic/pic-4.png)
+   [Imgur](https://i.imgur.com/Jnhsebb.png)
 
    3. 确定各个子功能的行成本（元/行）和生产力（行/人月）
    4. 计算各个子功能的成本（行*行成本）和人力（行/生产率）
@@ -219,9 +219,9 @@
 
     见ppt第二章11-35页
 
-    ![avatar](pic/pic-1.png)
+    [Imgur](https://i.imgur.com/vY6IcGg.png)
 
-    ![avatar](pic/pic-2.png)
+    [Imgur](https://i.imgur.com/FZLxCcF.png)
 
 
 7. **画数据流图的注意点**
@@ -257,7 +257,7 @@
 
     **与数据流图的联系**：数据字典定义数据流图中出现的所有名字
 
-    ![avatar](pic/pic-3.png)
+    [Imgur](https://i.imgur.com/uwaqW8I.png)
 
 9. *补充*
 
@@ -305,7 +305,7 @@
     - 将来可能提出的要求
 
 
-   ![avatar](pic/pic-5.png)
+   [Imgur](https://i.imgur.com/lR4zejd.png)
 
 3. **需求获取的手段方法**
 
